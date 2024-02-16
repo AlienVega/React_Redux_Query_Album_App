@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Haydar Çoban"
+    },
+    {
+      "name": "Jenna Wunsch I",
+      "id": "4"
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Oriental Rubber Bacon",
+      "id": "21"
+    },
+    {
+      "userId": 3,
+      "title": "Modern Bronze Chips",
+      "id": "22"
+    },
+    {
+      "userId": 3,
+      "title": "Small Plastic Shoes",
+      "id": "23"
+    },
+    {
+      "userId": 3,
+      "title": "Practical Granite Shirt",
+      "id": "24"
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Rubber Keyboard",
+      "id": "25"
+    },
+    {
+      "userId": 3,
+      "title": "Intelligent Plastic Bacon",
+      "id": "26"
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Wooden Pants",
+      "id": "27"
+    },
+    {
+      "userId": 3,
+      "title": "Oriental Frozen Soap",
+      "id": "28"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=240",
+      "id": "2"
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13847",
+      "id": "3"
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55640",
+      "id": "4"
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42637",
+      "id": "6"
+    }
+  ]
+}
